@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Text-summarizer
+Version: 0.0.0
+Summary: A text summarizer using BERT model
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
+Author: akhilesh1709
+Author-email: tsakhilesh12@gmail.com
+Description-Content-Type: text/markdown
