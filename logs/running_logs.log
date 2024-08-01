@@ -1,1 +1,57 @@
 [2024-07-31 21:44:55,877: INFO: Welcome to our custom logging]
+[2024-08-01 09:40:40,924: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-08-01 09:40:40,942: INFO: yaml file: params.yaml loaded successfully]
+[2024-08-01 09:40:40,944: INFO: created directory at: artifacts]
+[2024-08-01 09:40:40,948: INFO: created directory at: artifacts/data_validation]
+[2024-08-01 09:41:25,132: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-08-01 09:41:25,137: INFO: yaml file: params.yaml loaded successfully]
+[2024-08-01 09:41:25,141: INFO: created directory at: artifacts]
+[2024-08-01 09:41:25,143: INFO: created directory at: artifacts/data_ingestion]
+[2024-08-01 09:41:45,376: INFO: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2D9F:35CFE4:27ECF3:32CD8C:66AB0AEB
+Accept-Ranges: bytes
+Date: Thu, 01 Aug 2024 04:11:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10225-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1722485483.444454,VS0,VE920
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 196284e6d0c16a94b8cd976f8b6292bc08b6b8c1
+Expires: Thu, 01 Aug 2024 04:16:24 GMT
+Source-Age: 1
+
+]
+[2024-08-01 09:41:59,539: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-08-01 09:41:59,544: INFO: yaml file: params.yaml loaded successfully]
+[2024-08-01 09:41:59,546: INFO: created directory at: artifacts]
+[2024-08-01 09:41:59,552: INFO: created directory at: artifacts/data_validation]
+[2024-08-01 10:20:56,845: INFO: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-01 10:20:56,849: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-08-01 10:20:56,850: INFO: yaml file: params.yaml loaded successfully]
+[2024-08-01 10:20:56,850: INFO: created directory at: artifacts]
+[2024-08-01 10:20:56,851: INFO: created directory at: artifacts/data_ingestion]
+[2024-08-01 10:20:56,851: INFO: File already exists of size: ~ 7718 KB]
+[2024-08-01 10:20:56,947: INFO: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-01 10:20:56,947: INFO: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-08-01 10:20:56,952: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-08-01 10:20:56,952: INFO: yaml file: params.yaml loaded successfully]
+[2024-08-01 10:20:56,953: INFO: created directory at: artifacts]
+[2024-08-01 10:20:56,953: INFO: created directory at: artifacts/data_validation]
+[2024-08-01 10:20:56,954: INFO: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
